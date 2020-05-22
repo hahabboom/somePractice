@@ -20,4 +20,4 @@ npm run build
 所以我就是做着玩了，后期要用的话就好好做个优化
 
 
-![image](https://github.com/hahabboom/img-store/blob/master/twinkle.gif)
+ ![image](https://github.com/hahabboom/img-store/blob/master/twinkle.gif)
